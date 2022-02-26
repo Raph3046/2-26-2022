@@ -1,0 +1,27 @@
+p {
+  color: #00bfff;
+  background-color: antiquewhite;
+}
+h1 {
+  color: #ffff00;
+  background-color: blue;
+}
+h2 {
+  color: rgb(255, 0, 0);
+  background-color: green;
+}
+strong {
+  color: rgb(0, 0, 255);
+  background-color: yellow;
+}
+em {
+  color: darkgreen;
+  background-color: black;
+}
+ins {
+  color: darkorchid;
+  background-color: red;
+}
+body {
+  background-color: purple;
+}
